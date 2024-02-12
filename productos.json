@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "Camiseta de rugby",
+        "description": "Camiseta oficial de rugby de alta calidad",
+        "code": "RUG001",
+        "price": 29.99,
+        "status": true,
+        "stock": 100,
+        "category": "Camisetas",
+        "thumbnails": [
+            "imagen1.jpg",
+            "imagen2.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Short de rugby",
+        "description": "Short oficial de rugby para practicar deporte",
+        "code": "RUG002",
+        "price": 19.99,
+        "status": true,
+        "stock": 50,
+        "category": "Shorts",
+        "thumbnails": [
+            "imagen3.jpg",
+            "imagen4.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Pelota de rugby",
+        "description": "Pelota oficial de rugby para entrenamiento",
+        "code": "RUG003",
+        "price": 39.99,
+        "status": true,
+        "stock": 30,
+        "category": "Pelotas",
+        "thumbnails": [
+            "imagen5.jpg",
+            "imagen6.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Zapatillas de rugby",
+        "description": "Zapatillas profesionales de rugby con tacos",
+        "code": "RUG004",
+        "price": 59.99,
+        "status": true,
+        "stock": 20,
+        "category": "Calzado",
+        "thumbnails": [
+            "imagen7.jpg",
+            "imagen8.jpg"
+        ]
+    }
+]

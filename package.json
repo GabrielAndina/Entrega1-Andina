@@ -1,0 +1,12 @@
+{
+    "name": "entrega-1",
+    "version": "1.0.0",
+    "description": "Proyecto para la entrega 1",
+    "main": "index.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
